@@ -3200,9 +3200,10 @@ gifsicle@^4.0.0:
     execa "^1.0.0"
     logalot "^2.0.0"
 
-git-cz@^1.8.0:
-  version "1.8.0"
-  resolved "https://registry.yarnpkg.com/git-cz/-/git-cz-1.8.0.tgz#b8a116d70e03f2fd8243444a788e75cf0001cdcc"
+git-cz@^1.8.2:
+  version "1.8.2"
+  resolved "https://registry.yarnpkg.com/git-cz/-/git-cz-1.8.2.tgz#d0fa8f7cf5a56a1f55f0ff19249e696193f551b5"
+  integrity sha512-vd7SJuRJplokEsldWaitufpmyOOLRNh6UsgVmPiy5Zf0QBt4I/ZJ8TNWm0m27HC+AEWdhNMZssdjIAmLZa8gSw==
 
 git-log-parser@^1.2.0:
   version "1.2.0"
